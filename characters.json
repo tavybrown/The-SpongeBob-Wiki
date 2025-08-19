@@ -1,0 +1,14 @@
+[
+  {
+    "name": "SpongeBob SquarePants",
+    "description": "A cheerful and optimistic sea sponge who works at the Krusty Krab."
+  },
+  {
+    "name": "Patrick Star",
+    "description": "SpongeBob's best friend, a starfish who is not very bright."
+  },
+  {
+    "name": "Squidward Tentacles",
+    "description": "SpongeBob's grumpy neighbor and coworker at the Krusty Krab."
+  }
+]
